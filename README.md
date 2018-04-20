@@ -3,7 +3,7 @@
 Demo code for the work below:
  - Nie, Y., Zhang, Z., Sun, H., Su, T., & Li, G. "[Homography Propagation and Optimization for Wide-baseline Street Image Interpolation](http://ieeexplore.ieee.org/document/7593383/)." IEEE Transactions on Visualization and Computer Graphics, 23(10), 2328-2341, 2017.
 
-[Video Demo](https://www.youtube.com/watch?v=gZuqJWvDGOs&feature=youtu.be) on YouTube:
+[Video Demo](https://www.youtube.com/watch?v=gZuqJWvDGOs&feature=youtu.be) on YouTube.
 
 ## External libraries and code used:
  - Boost 1.62: https://www.boost.org/
