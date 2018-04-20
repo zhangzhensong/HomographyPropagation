@@ -25,16 +25,24 @@ Q2: How to generate the matches.txt file in the forward/backward folder?
 
 A2: This file can be generated from any ANNF algorithms, for example, [PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php), [DAISY Filter Flow](https://sites.google.com/site/daisyfilterflowcvpr2014/) and [NRDC](http://www.cs.huji.ac.il/~yoavhacohen/nrdc/).
 
-## Please cite our papers:
+## Citation:
 
 @article{nie2017homography,
+
   title={Homography propagation and optimization for wide-baseline street image interpolation},
+  
   author={Nie, Yongwei and Zhang, Zhensong and Sun, Hanqiu and Su, Tan and Li, Guiqing},
+  
   journal={IEEE transactions on visualization and computer graphics},
+  
   volume={23},
+  
   number={10},
+  
   pages={2328--2341},
+  
   year={2017},
+  
   publisher={IEEE}
 }
  
